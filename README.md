@@ -1,4 +1,3 @@
-# Selenium-Scrypt---Login
 Selenium  scrypt with Python - login to a web page, with steps ( #comments)
 
 I used locators and XPATH, for Chrome browser, in this example. Any other browser can be used ( like Firefox, Safari, IE), with the correct driver.
