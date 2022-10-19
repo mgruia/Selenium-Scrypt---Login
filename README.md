@@ -5,6 +5,7 @@ I used locators and XPATH, for Chrome browser, in this example. Any other browse
 
 driver.maximize_window() can be added to get a full screen browser.
 
-Another way to load he driver:
+Another way to load the driver:
+
 PATH = "your_file_location/chromedriver.exe"
 driver = webdriver.Chrome(PATH)
